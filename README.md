@@ -35,25 +35,42 @@ Maintenance involves providing continuous support, updates, and enhancements to 
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall involves sequential approach with distinct phases (e.g., requirements, design, implementation) while Agile methodology focuses on iterative and incremental approach and responding to change.
+Waterfall involves sequential approach with distinct phases (e.g., requirements, design, implementation) while Agile methodology focuses on iterative and incremental approach and responding to change. Agile methodologies are crucial part of development in big tech companies while waterfall are suitable for small-scale projects.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Responsible for writing code and development of software solutions
+A quality assurance engineer is charged with the responsibility of ensuring the quality of sodtware by designing and conducting various levels of tests.
+A project manager is charged with the responsibility of planning, executing and delivery of software solutions
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Integrated development environments are software suites that provide comprehensive tools for writing, debugging, and testing code e.g., Intellij IDEA
+Version control systems are software tools for tracking changes to source code and coordinating work among team members
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+Changing requirements is one of the problems faced by software engineers and can usually be overcome by effective communication and good agile practices.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit testing is testing the functionality of a piece of code e.g., a function
+Integration testing involves testing the interactions between various components or subsystems of a software
+Acceptance testing is testing software against user requirements to ensure it meets user needs
 
+They help to identify and fix errors early in the development process, leading to higher-quality software products
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering entails crafting questions or statements in such a way that it elicits the best possible responses from AI models.
+Well engineered prompt is vital for interacting with AI models because it help generates valid responses from the AI model.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example of a vague prompt:
+what is a function?
+
+Good prompt:
+With the aid of a very simple example, explain to me using plain language what a function in software engineering is
+
+
+The prompt is more effective because it gives some context about the problem and also describe how the answers should be framed. It's clear, concise and complete.
